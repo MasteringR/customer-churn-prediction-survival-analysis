@@ -1,6 +1,6 @@
 # A Hands-On Guide to Customer Churn Prediction with Survival Analysis in R ----
 #
-# Follow along our tutorial at ... with this R script.
+# Follow along our tutorial at https://masteringr.com/data-science/a-hands-on-guide-to-customer-churn-prediction-with-survival-analysis-in-r/ with this R script.
 #
 ####################
 
